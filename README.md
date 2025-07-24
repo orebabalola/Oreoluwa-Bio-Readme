@@ -1,1 +1,2 @@
 # Oreoluwa-Bio-Readme
+Hello, My name is Oreoluwa Babalola but people call me Ore 👋🏾. I am a rising senior in highschool. I take computer science classes in school where we code with java and pseudocode. I also have taken a few summer coding classes using scratch. Besides that this is my first opportunity to use different coding languages. I plan to double major in computer and dat science in college. I am not sure what career I want after but I look forward to my future experiences in tech.
